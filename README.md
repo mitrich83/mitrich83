@@ -1,9 +1,12 @@
-### Hi there 👋
+👋 Hi, my name is Dmitry Malykhin.
 
-<!--
-**mitrich83/mitrich83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Front-end developer. 
 
-Here are some ideas to get you started:
+LinkedIn: https://www.linkedin.com/in/dmitry-malykhin-325b50220/ Languages and Technologies https://camo.githubusercontent.com/c9284c8ccc27f7b646fb170f35367a605c256214c4957206288c410132e48015/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52454143542d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374
+
+https://camo.githubusercontent.com/11ccdc324ef6d16f3aa1c05c66f9f141051d023b8bc1339265485c85bae29328/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a4156415343524950542d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074
+
+📧 Mail me: dmitry.malykhin@mail.ru 📨 Telegram: https://t.me/mitrich83
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
