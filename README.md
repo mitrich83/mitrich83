@@ -1,7 +1,7 @@
 
 # 👋 Hi, my name is Dmitry Malykhin.
 
-I’m a Front-end developer. 
+## *I’m a Front-end developer.*
 Languages and Technologies:
 
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35](https://user-images.githubusercontent.com/65997521/156775151-30989b27-e83f-475f-b2ba-a65c01f7996b.svg)
