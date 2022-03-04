@@ -12,11 +12,11 @@ Languages and Technologies:
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d545950455343524950542d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074](https://user-images.githubusercontent.com/65997521/156775230-d5d1d39b-27aa-44a6-bd5e-ac35810ac7db.svg)
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333](https://user-images.githubusercontent.com/65997521/156775239-cfabe070-b91c-4810-8547-e67f4341878e.svg)
 
-LinkedIn: [Dmitry Malykhin](https://www.linkedin.com/in/dmitry-malykhin-325b50220/).
+![This is an image](https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BwD3A9PEsR5qtEdAhYsv9Gg%3D%3D) LinkedIn: [Dmitry Malykhin](https://www.linkedin.com/in/dmitry-malykhin-325b50220/).
 
 📧 Mail me: dmitry.malykhin@mail.ru 
 
 📨 Telegram: https://t.me/mitrich83
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
 
