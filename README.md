@@ -1,6 +1,5 @@
 
-# The largest heading
-👋 Hi, my name is Dmitry Malykhin.
+#👋 Hi, my name is Dmitry Malykhin.
 
 I’m a Front-end developer. 
 Languages and Technologies:
