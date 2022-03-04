@@ -13,9 +13,7 @@ Languages and Technologies:
 
 LinkedIn: [Dmitry Malykhin](https://www.linkedin.com/in/dmitry-malykhin-325b50220/).
 
-📧 Mail me: dmitry.malykhin@mail.ru 
+📧 Email: dmitry.malykhin@mail.ru 
 
-📨 Telegram: https://t.me/mitrich83
-
-
+📨 Telegram: [Dmitry Malykhin](https://t.me/mitrich83)
 
